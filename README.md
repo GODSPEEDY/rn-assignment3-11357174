@@ -2,9 +2,7 @@
 
         This React Native application is a simple task manager with the following features:
 
-        This React Native application is a simple task manager with the following features:
-
-        Adding tasks 
+              Adding tasks 
         - Displaying tasks in a list with icons 
         - Styled to match a provided UI
 
